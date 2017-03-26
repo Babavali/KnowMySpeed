@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loc_current">Location</string>
+    <string name="loc_speed">Speed</string>
+    <string name="loc_distance">Distance</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">KnowMySpeed</string>
+    <string name="map_key">AIzaSyAWe066s3KR1-6tQ1xZYyj0img-xfNa7qk</string>
+    <string name="appbar_scrolling_view_behavior"></string>
+
+</resources>
